@@ -10,19 +10,20 @@
 - [SQLZoo](http://sqlzoo.net/)
 - [Hacker Rank](https://www.hackerrank.com/domains/databases/relational-algebra)
 - [Restful API setup](http://mherman.org/blog/2016/03/13/designing-a-restful-api-with-node-and-postgres/#.WCyqV6IrLb7)
+- [LeetCode](https://leetcode.com/problemset/database/)
 
 ### SPECS
 
 #### SQL Foundations & Practice Specs
 
-- [x] SQL query conceptual fundamentals in SQLBolt
-- [x] SQL query exercises SQLZOO
-- [x] Complete 10 Relational Algebra challenges on HackerRank
-- [x] Complete 5 Database Normalization challenges on HackerRank
+- [ ] Complete 10 Relational Algebra challenges on HackerRank
+- [ ] Complete 5 Database Normalization challenges on HackerRank
+- [ ] [LeetCode 10 "Easy" and "Medium" database challenges](https://leetcode.com/problemset/database/)
+- [ ] Design RESTful web service with JavaScript, Node, Express, Postgres, and pg-promise
 
 #### STRETCH SPEC
 
-- [x] Design RESTful web service with JavaScript, Node, Express, Postgres, and pg-promise.
+- [ ] Complete the exercises under the "Assessments: More involved examples for confident users" subtopic on SQLZOO
 
 #### What skills and concepts did we acquire working on this relational database challenge
 
